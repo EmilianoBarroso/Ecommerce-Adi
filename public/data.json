@@ -1,0 +1,88 @@
+[
+    {
+      "id": 1,
+      "name": "MonitorGaming",
+      "price": "$ 150000",
+      "img": "https://images.philips.com/is/image/philipsconsumer/3e66e119be5b434d8100b01200f47a48?wid=700&hei=700&$pnglarge$",
+      "quanty": 1
+    },
+    {
+      "id": 2,
+      "name": "Parlante Bluetooth",
+      "price": "$ 170000",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZvrKgMWUfIDE7givy1pMRszdQRE7TDRezzjYEGraAtpy1W2LOazOC3YhzjK44iToDf4&usqp=CAU",
+      "quanty": 1
+    },
+    {
+      "id": 3,
+      "name": "MOUSE LOGITECH G502",
+      "price": "$ 15000",
+      "img": "https://www.xt-pc.com.ar/img/productos/14/MOU561.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 4,
+      "name": "Tablet Samsung A7 Lite 8.7",
+      "price": "$ 270000",
+      "img": "https://www.soscomputacion.com.ar/23753-thickbox_default/tablet-samsung-a7-lite-87-3gb-ram-32gb-octa-core-5100mah-gris.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 5,
+      "name": "Pc Cpu Juegos Gamer Intel I7",
+      "price": "$ 550000",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_963816-MLA74849832493_032024-O.webp",
+      "quanty": 1
+    },
+    {
+      "id": 6,
+      "name": "Smart Watch Reloj Inteligente Xiaomi ",
+      "price": "$ 150000",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_804851-MLA45799501759_052021-O.webp",
+      "quanty": 1
+    },
+    {
+      "id": 7,
+      "name": "Auricular Gamer para PS4",
+      "price": "$ 157000",
+      "img": "https://images.fravega.com/f500/57e1403fe178abd9607293ff67e58704.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 8,
+      "name": "Televisor Philips 32 pulgadas Smart HD Google",
+      "price": "$ 1200000",
+      "img": "https://www.dualequipamientos.com.ar/wp-content/uploads/2024/06/32PHD6918-2.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 9,
+      "name": "Parlantes Targa",
+      "price": "$ 900000",
+      "img": "https://images.fravega.com/f1000/d292777d6fc5fac9049f74c77b5a37b4.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 10,
+      "name": "iPad Air 10.9 Wi-Fi + Cellular 256GB",
+      "price": "$ 1500000",
+      "img": "https://ipoint.com.ar/25408-large_default/ipad-air-109-wi-fi-cellular-256gb-space-grey.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 11,
+      "name": "Astronauta Proyector de Estrellas y Galaxia",
+      "price": "$ 180000",
+      "img": "https://acdn.mitiendanube.com/stores/652/596/products/mesa-de-trsabajo-2-100-b64e37e3c832951da617213273930175-1024-1024.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 12,
+      "name": "SOPORTE DE SMARTPHONE PARA AUTO",
+      "price": "$ 30000",
+      "img": "https://acdn.mitiendanube.com/stores/001/593/734/products/ng-hold04-celular1-537a9392595a4dbf4616321572719669-1024-1024.jpg",
+      "quanty": 1
+    }
+
+
+  ]
